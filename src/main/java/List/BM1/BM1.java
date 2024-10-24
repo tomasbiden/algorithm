@@ -57,6 +57,7 @@ public class BM1 {
             System.out.println(tmp.val);
             tmp=tmp.next;
         }
+        System.out.println("sdfdf");
 
 
 
